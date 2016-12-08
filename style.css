@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
-
 * {
     border: 1px solid red;
     font-family: 'Oswald', sans-serif;
@@ -8,20 +7,19 @@
 
 #title {
     background: yellow;
-    /*add CSS here*/
-    
+    margin: 30px 50px 30px 50px;
+    padding: 10px;
 }
 
 #subtitle {
     background: black;
     color: white;
-    /*add CSS here*/
-    
+    margin: 30px 50px 30px 50px;
+    padding: 10px;
 }
 
 .topic {
     background: lightgray;
-    /*add CSS here*/
-    
+    display: inline-block;
+    margin: 70px;
 }
-
